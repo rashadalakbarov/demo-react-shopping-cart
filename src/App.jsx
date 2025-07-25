@@ -1,4 +1,3 @@
-import "./App.css";
 import { useState } from "react";
 import Basket from "./components/Basket";
 import Header from "./components/Header";
